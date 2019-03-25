@@ -34,7 +34,7 @@ install ruby 2.6.1
 
 `$ ruby-build 2.6.1`
 
-install chruby *ruby version handler*
+install chruby -- *ruby version handler*
 
 `$ brew install chruby`
 
@@ -42,12 +42,11 @@ check current ruby version
 
 `$ chruby`
 
-if not 2.6.1 run
+if version not 2.6.1 run
 
 `$ chruby 2.6.1`
 
 if you do not have bundler installed
-
 
 `$ gem install bundler`
 
