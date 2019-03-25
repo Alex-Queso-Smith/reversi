@@ -2,7 +2,7 @@
 
 **This is a simple Reversi game built in React and Rails**
 
-Visit a working copy of the game (https://queso-reversi.herokuapp.com/)
+Visit a working copy of the game https://queso-reversi.herokuapp.com/
 
 ***or***
 
@@ -10,8 +10,9 @@ Clone this repository
 
 open repo directory and make sure you have the correct version of Ruby installed 2.6.1
 
-Markup: ###Setup environment###
-***RUN***
+*Setup Environment*
+
+***Run***
 
 update brew if installed
 
@@ -61,4 +62,4 @@ if you do not have bundler installed
 
 `$ yarn run start`
 
-and visit (localhost:3000) to see a local copy of the games
+and visit localhost:3000 to see a local copy of the games
