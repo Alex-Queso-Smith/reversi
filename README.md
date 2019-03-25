@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple Reversi game built in React and Rails
 
-Things you may want to cover:
+Visit a working copy of the game here or
 
-* Ruby version
+Clone this repo
 
-* System dependencies
+run
 
-* Configuration
+$ bundle
 
-* Database creation
+$ rails s
 
-* Database initialization
+$ yarn run start
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+and visit localhost:3000 to see a local copy of the games
