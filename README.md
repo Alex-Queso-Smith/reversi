@@ -8,11 +8,9 @@ Visit a working copy of the game https://queso-reversi.herokuapp.com/
 
 Clone this repository
 
-Open repo directory and make sure you have the correct version of Ruby installed 2.6.1 with the following steps 
+Open repo directory and make sure you have the correct version of Ruby installed 2.6.1 with the following steps
 
 ***Setup Environment***
-
-***Run***
 
 update brew if installed
 
