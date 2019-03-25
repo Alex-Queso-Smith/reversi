@@ -10,23 +10,17 @@ h2 {
 	background: #2ECC40;
 	border: 1px solid #111;
 	float: left;
-	// font-size: 24px;
-	// font-weight: bold;
 	height: 50px;
 	margin-right: -1px;
 	margin-top: -1px;
-	// padding: 0;
 	text-align: center;
 	width: 50px;
-	// border-radius: 0;
-	// max-width: 12.5%;
 }
 
 .square.available {
-  background: #f4e842;
 
   &:hover {
-    background: lightblue;
+    background: #f4e842;
   }
 
   cursor: pointer;
