@@ -10,7 +10,7 @@ Clone this repository
 
 open repo directory and make sure you have the correct version of Ruby installed 2.6.1
 
-###Setup environment###
+Markup: ###Setup environment###
 ***RUN***
 
 update brew if installed
