@@ -62,4 +62,4 @@ in second tab in terminal run
 
 `$ yarn run start`
 
-and visit localhost:3000 to see a local copy of the games
+and visit localhost:3000 to see a local copy of the game
