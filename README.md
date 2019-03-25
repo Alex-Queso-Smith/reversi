@@ -51,12 +51,15 @@ if you do not have bundler installed
 
 `$ gem install bundler`
 
-###Start application###
-***RUN***
+***Start application***
+
+in project directory run
 
 `$ bundle`
 
 `$ rails s`
+
+in second tab in terminal run
 
 `$ yarn run start`
 
